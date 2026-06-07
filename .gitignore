@@ -1,0 +1,20 @@
+#compiled files
+*.exe
+*.dll
+*.so
+*.ppu
+*.o
+*.a
+
+# service folders of Lazarus
+/lib/
+/backup/
+
+# user settings
+*.lps
+*.lpi.local
+*.lpr.local
+
+# backup copies
+*.bak
+*~
